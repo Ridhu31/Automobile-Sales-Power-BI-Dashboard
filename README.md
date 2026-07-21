@@ -38,7 +38,8 @@ This project is an interactive Power BI dashboard designed to analyze automobile
 - Business Intelligence
 
 ## Dashboard Preview
-
+![Dashboard](Dashboard.png)
+![Dashboard filters](Dashboard_filters.png)
 
 ## Author
 Ridhuvarshini N.
