@@ -1,20 +1,20 @@
-# Automobile Sales Performance Dashboard
+# 🚗 Automobile Sales Performance Dashboard
 
 ## Project Overview
 This project is an interactive Power BI dashboard designed to analyze automobile sales performance and provide business insights through data visualization.
 
 ## Dashboard Features
-- Interactive Slicers
-- Total Revenue KPI
-- Cars Sold KPI
-- Average Price KPI
-- Number of Companies KPI
-- Revenue by Company
-- Transmission Distribution
-- Revenue by Model 
-- Revenue by Gender
-- Revenue by Dealer Region
-- Revenue Achievement Gauge
+- 🎛 Interactive Slicers
+- 💰Total Revenue KPI
+- 🚗 Cars Sold KPI
+- 💵 Average Price KPI
+- 🏢 Number of Companies KPI
+- 📈 Revenue by Company
+- 🥧 Transmission Distribution
+- 🚘 Revenue by Model 
+- 👥 Revenue by Gender
+- 🌍 Revenue by Dealer Region
+- 🎯 Revenue Achievement Gauge
 
 ## Tools Used
 - Power BI
